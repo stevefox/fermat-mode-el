@@ -7,7 +7,7 @@ Installation
 ============
 Copy fermat.el to your ~/.emacs.d/styles/ directory
 
-Copy these liens into your .emacs file:
+Copy these lines into your .emacs file:
 (load-file "/home/stephen/.emacs.d/styles/fermat-style.el")
 (add-to-list 'auto-mode-alist '("\\.f$" . fermat-mode))
 
